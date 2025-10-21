@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: contacts-converter
+  shell:
+    interactive:
+      enabled: true
+    script:
+      enabled: true
